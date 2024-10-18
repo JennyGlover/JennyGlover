@@ -17,7 +17,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JennyGlover&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JennyGlover&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
 - React Native
