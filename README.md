@@ -1,0 +1,20 @@
+# 👋 Hello, I'm Jenny Saunders!
+
+- 🌍 Based in Washington, DC
+- 🎓 Full Stack Software Engineer
+- 💼 Specializing in **React**, **Node.js**, and **MongoDB**
+- 🎨 With a background in **UX/UI design** and creating delightful user experiences
+- 🚀 Always eager to learn and take on new challenges
+
+## 🔧 Technologies & Tools
+- **Front-End**: React, CSS, HTML
+- **Back-End**: Node.js, Express, MongoDB
+- **DevOps**: Nginx, pm2, Docker
+- **Design**: Figma, Adobe XD
+
+## 🌱 Currently Learning
+- React Native
+
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jennygloversaunders/)
