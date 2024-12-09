@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Jenny Saunders!
 
 - 🌍 Based in Washington, DC
-- 🎓 UX Engineer
+- 🎓 Software engineer
 - 💼 Specializing in **JavaScript, React, CSS, HTML**,
 - 🎨 With a background in **UX/UI design** and creating delightful user experiences
 - 🚀 Always eager to learn and take on new challenges
