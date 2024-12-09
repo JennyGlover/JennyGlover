@@ -9,8 +9,6 @@
 ## 🔧 Technologies & Tools
 - **Front-End**: JavaScript, React, CSS, HTML
 - **Design**: Figma, Adobe XD
-
-## 🌱 Currently Learning
 - **Full Stack Software Engineerning** @ Tripleten
 - **Back-End**: Node.js, Express, MongoDB
 - **DevOps**: Nginx, pm2, Docker
