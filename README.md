@@ -7,11 +7,13 @@
 - 🚀 Always eager to learn and take on new challenges
 
 ## 🔧 Technologies & Tools
-- **Front-End**: JavaScript, React, CSS, HTML
-- **Design**: Figma, Adobe XD
-- **Full Stack Software Engineerning** @ Tripleten
-- **Back-End**: Node.js, Express, MongoDB
-- **DevOps**: Nginx, pm2, Docker
+**Languages & Frameworks**: JavaScript (ES6+), React.js, Node.js, Express.js, HTML, CSS
+**Databases**: MongoDB
+**Version Control & Collaboration**: Git, GitHub
+**Testing Tools**: Postman, Jest
+**Build & Deployment Tools**: Webpack, Nginx, pm2, Certbot
+**Methodologies**: BEM, Object-Oriented Programming (OOP)
+**UI/UX Design**: Figma, Adobe XD, Sketch
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jennygloversaunders/)
