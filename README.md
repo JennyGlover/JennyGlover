@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jenny Saunders!
+# 👋 Hello, I'm Jenny Saunders
 
 - 🌍 Based in Frederick, MD
 - 🎓 Software engineer
