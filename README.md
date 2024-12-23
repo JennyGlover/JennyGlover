@@ -2,8 +2,6 @@
 
 - 🌍 Based in Washington, DC
 - 🎓 Software engineer
-- 💼 Specializing in **JavaScript, React, CSS, HTML**,
-- 🎨 With a background in **UX/UI design** and creating delightful user experiences
 - 🚀 Always eager to learn and take on new challenges
 
 ## 🔧 Technologies & Tools
