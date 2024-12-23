@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jenny Saunders!
 
-- 🌍 Based in Washington, DC
+- 🌍 Based in Frederick, MD
 - 🎓 Software engineer
 - 🚀 Always eager to learn and take on new challenges
 
