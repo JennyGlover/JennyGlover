@@ -2,7 +2,7 @@
 
 - 🌍 Based in Frederick, MD
 - 🖥️ Software engineer
-- 🎓 Tripleten Software enginnering Graduate
+- 🎓 Tripleten Software Engineering Graduate
 - 🚀 Always eager to learn and take on new challenges
 
 ## 🔧 Technologies & Tools
