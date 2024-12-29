@@ -1,12 +1,14 @@
 # 👋 Hello, I'm Jenny Saunders
 
 - 🌍 Based in Frederick, MD
-- 🎓 Software engineer
+- 🖥️ Software engineer
+- 🎓 Tripleten Software enginnering Graduate
 - 🚀 Always eager to learn and take on new challenges
 
 ## 🔧 Technologies & Tools
 - **Languages & Frameworks**: JavaScript (ES6+), React.js, Node.js, Express.js, HTML, CSS
 - **Databases**: MongoDB (NoSQL), MySQL(SQL)
+- **Data Structures & Algorithms**: Arrays, Linked Lists, Trees, Graphs, Sorting & Searching Algorithms
 - **Version Control & Collaboration**: Git, GitHub
 - **Testing Tools**: Postman, Jest
 - **Build & Deployment Tools**: Webpack, Nginx, pm2, Certbot
