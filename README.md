@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Jenny Saunders
 
 - 🌍 Based in Frederick, MD
-- 🖥️ Software engineer
+- 🖥️ Full-Stack Software Engineer
 - 🎓 Tripleten Software Engineering Graduate
 - 🚀 Always eager to learn and take on new challenges
 
