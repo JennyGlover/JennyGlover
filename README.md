@@ -8,7 +8,6 @@
 ## 🔧 Technologies & Tools
 - **Languages & Frameworks**: JavaScript (ES6+), React.js, Node.js, Express.js, HTML, CSS
 - **Databases**: MongoDB (NoSQL), MySQL(SQL)
-- **Data Structures & Algorithms**: Arrays, Linked Lists, Trees, Graphs, Sorting & Searching Algorithms
 - **Version Control & Collaboration**: Git, GitHub
 - **Testing Tools**: Postman, Jest
 - **Build & Deployment Tools**: Webpack, Nginx, pm2, Certbot
