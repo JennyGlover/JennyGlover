@@ -1,10 +1,7 @@
 # 👋 Hello, I'm Jenny Saunders
 
-- 🌍 Based in Frederick, MD
 - 🖥️ Full-Stack Software Engineer
-- 🎓 Tripleten Software Engineering Graduate
-- 🚀 Always eager to learn and take on new challenges
-
+  
 ## 🔧 Technologies & Tools
 - **Languages & Frameworks**: JavaScript (ES6+), React.js, Node.js, Express.js, HTML, CSS
 - **Databases**: MongoDB (NoSQL), postgreSQL(SQL)
