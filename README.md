@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Jenny Saunders  
-**Full-Stack Software Engineer | UI/UX-Focused | Design System Enthusiast**
+# 👋 Hi, I'm Jenny Nwachukwu
+**Full-Stack Software Engineer & UX Designer 
 
 I'm a full-stack engineer with a front-end focus, blending scalable architecture with polished design. I specialize in building high-quality web experiences from concept to deployment, with strong attention to detail, user-first design, and performance. Whether it's crafting responsive interfaces or building robust backend APIs, I bring product thinking and clean code to every layer of development.
 
@@ -32,4 +32,4 @@ I'm a full-stack engineer with a front-end focus, blending scalable architecture
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jennygloversaunders/)
+- [LinkedIn](https://www.linkedin.com/in/jennynwachukwu/)
